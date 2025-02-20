@@ -1,5 +1,5 @@
 # ConfigFiles
-O365 and Intune Config examples
+O365 and Intune Config examples used in my daily labs
 
 Not all of these are my personally created scripts or files.
 I have left the original author for credit.
